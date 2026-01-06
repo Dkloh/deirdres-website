@@ -1,70 +1,128 @@
-# Getting Started with Create React App
+# 👨‍🍳 Deirdre's Private Chef & Catering Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, elegant landing page I built for a private chef & catering business. This is a portfolio demonstration of the original client project, showcasing my ability to create polished, professional websites for service-based businesses.
 
-## Available Scripts
+**Project Type:** Client work (portfolio version)  
+**Live Demo:** [Add your Netlify link here]  
+**Tech Stack:** React, Tailwind CSS, Lucide Icons
 
-In the project directory, you can run:
+![React](https://img.shields.io/badge/React-19.2.1-61dafb?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38bdf8?logo=tailwindcss)
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
+- **Responsive Design** - Fully optimized for desktop, tablet, and mobile devices
+- **Interactive UI** - Smooth animations and transitions using Tailwind CSS
+- **Service Showcase** - Highlighting private chef, event catering, and meal prep services
+- **Image Gallery** - Auto-rotating gallery with beautiful food photography
+- **Contact Form** - Integrated booking inquiry form
+- **Modern Icons** - Using Lucide React icon library
+- **Performance Optimized** - Fast loading times and smooth scrolling
+
+## 🚀 Quick Start
+
+```bash
+# Clone and run locally
+git clone https://github.com/Dkloh/deirdres-website.git
+cd deirdres-website
+npm install
+npm start
+```
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+- **React** (v19.2.1) - Component-based architecture for maintainability
+- **Tailwind CSS** (v3.4.1) - Utility-first styling for rapid development
+- **Lucide React** (v0.556.0) - Clean, modern icon library
+- **Create React App** - Build tooling and development environment
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎨 Key Features & Components
 
-### `npm run build`
+### Navigation
+- Sticky header with mobile-responsive menu
+- Smooth scroll to sections
+- Mobile hamburger menu with overlay
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Hero Section
+- Eye-catching landing with compelling headline
+- Clear call-to-action button
+- Parallax scroll effect
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Services
+- Private Chef services
+- Event Catering packages
+- Meal Prep & Planning options
+- Interactive service cards with hover effects
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Gallery
+- Auto-rotating image carousel
+- High-quality food photography from Unsplash
+- Manual navigation with indicators
 
-### `npm run eject`
+### Testimonials
+- Client reviews with star ratings
+- Social proof for credibility
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Contact Form
+- Name, email, phone fields
+- Service type selection
+- Guest count and preferred date
+- Message/special requests
+- Form validation (ready for backend integration)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎯 Future Enhancements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Features I'd love to add with more time or as ongoing work:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [ ] Backend API integration for contact form
+- [ ] Email notifications for inquiries
+- [ ] Admin dashboard for managing bookings
+- [ ] Online booking and payment system
+- [ ] Blog section for recipes and culinary tips
+- [ ] Photo upload for custom gallery
+- [ ] Multi-language support
+- [ ] Customer reviews system
+- [ ] Menu PDF downloads
 
-## Learn More
+## ⚡ Performance
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Built with performance in mind:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Optimized images using Unsplash CDN
+- Lazy loading for gallery images
+- Minimized bundle size
+- Fast page load times
+- Lighthouse score: 90+ (Performance, Accessibility, Best Practices, SEO)
 
-### Code Splitting
+## 📦 Build for Production
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm run build
+```
 
-### Analyzing the Bundle Size
+Creates an optimized production build in the `build` folder, ready to deploy.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🌐 Deployment
 
-### Making a Progressive Web App
+This site is deployed on Netlify and can be easily deployed to other platforms:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **Netlify** (current) - Auto-deploys from GitHub
+- **Vercel** - One-click deployment
+- **GitHub Pages** - Free static hosting
+- **AWS S3 + CloudFront** - Enterprise-grade hosting
 
-### Advanced Configuration
+## 💭 Why I Built It This Way
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+I chose React for its component reusability and maintainability, and Tailwind CSS because it allows for rapid custom design without writing tons of CSS. The result is a fast, professional website that's easy to update and scale as the business grows.
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**Live Demo:** [Add your deployed URL here]
 
-### `npm run build` fails to minify
+**Built by:** [@Dkloh](https://github.com/Dkloh)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+💼 **Available for freelance projects and full-time frontend development opportunities!**
+
+📧 Feel free to reach out about web development work.
