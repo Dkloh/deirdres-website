@@ -1,15 +1,15 @@
-# 👨‍🍳 Deirdre's Private Chef & Catering Website
+# Deirdre's Private Chef & Catering Website
 
 A modern, elegant landing page I built for a private chef & catering business. This is a portfolio demonstration of the original client project, showcasing my ability to create polished, professional websites for service-based businesses.
 
 **Project Type:** Client work (portfolio version)  
-**Live Demo:** [Add your Netlify link here]  
+**Live Demo:** [https://deirdres.netlify.app]
 **Tech Stack:** React, Tailwind CSS, Lucide Icons
 
 ![React](https://img.shields.io/badge/React-19.2.1-61dafb?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38bdf8?logo=tailwindcss)
 
-## ✨ Features
+## Features
 
 - **Responsive Design** - Fully optimized for desktop, tablet, and mobile devices
 - **Interactive UI** - Smooth animations and transitions using Tailwind CSS
@@ -19,7 +19,7 @@ A modern, elegant landing page I built for a private chef & catering business. T
 - **Modern Icons** - Using Lucide React icon library
 - **Performance Optimized** - Fast loading times and smooth scrolling
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone and run locally
@@ -31,14 +31,14 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** (v19.2.1) - Component-based architecture for maintainability
 - **Tailwind CSS** (v3.4.1) - Utility-first styling for rapid development
 - **Lucide React** (v0.556.0) - Clean, modern icon library
 - **Create React App** - Build tooling and development environment
 
-## 🎨 Key Features & Components
+## Key Features & Components
 
 ### Navigation
 - Sticky header with mobile-responsive menu
@@ -72,7 +72,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Message/special requests
 - Form validation (ready for backend integration)
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 Features I'd love to add with more time or as ongoing work:
 
@@ -86,7 +86,7 @@ Features I'd love to add with more time or as ongoing work:
 - [ ] Customer reviews system
 - [ ] Menu PDF downloads
 
-## ⚡ Performance
+## Performance
 
 Built with performance in mind:
 
@@ -96,7 +96,7 @@ Built with performance in mind:
 - Fast page load times
 - Lighthouse score: 90+ (Performance, Accessibility, Best Practices, SEO)
 
-## 📦 Build for Production
+## Build for Production
 
 ```bash
 npm run build
@@ -104,7 +104,7 @@ npm run build
 
 Creates an optimized production build in the `build` folder, ready to deploy.
 
-## 🌐 Deployment
+## Deployment
 
 This site is deployed on Netlify and can be easily deployed to other platforms:
 
@@ -113,16 +113,15 @@ This site is deployed on Netlify and can be easily deployed to other platforms:
 - **GitHub Pages** - Free static hosting
 - **AWS S3 + CloudFront** - Enterprise-grade hosting
 
-## 💭 Why I Built It This Way
+## Why I Built It This Way
 
 I chose React for its component reusability and maintainability, and Tailwind CSS because it allows for rapid custom design without writing tons of CSS. The result is a fast, professional website that's easy to update and scale as the business grows.
 
 ---
 
-**Live Demo:** [Add your deployed URL here]
+**Live Demo:** [https://deirdres.netlify.app/]
 
 **Built by:** [@Dkloh](https://github.com/Dkloh)
 
-💼 **Available for freelance projects and full-time frontend development opportunities!**
+**Available for freelance projects and full-time frontend development opportunities!**
 
-📧 Feel free to reach out about web development work.
